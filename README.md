@@ -1,2 +1,2 @@
 # Test-Repository
-https://ArtemKrapitski.github.io/rsschool-cv/cv
+https://github.com/ArtemKrapitski.github.io/rsschool-cv/cv
