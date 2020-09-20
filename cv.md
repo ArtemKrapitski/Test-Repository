@@ -17,3 +17,8 @@ For two years, I was interested in many things:
 * YouTube
 
 So many possibilities! Where have I been before?
+
+I'm still doing some things, but I decided to try a new direction. And not just to try, but to learn a new profession. And here I am...
+I don't have any programming experience (except for simple formulas in Google spreadsheets), but I really want to learn how to continue working in this area. A good friend told me about RSS courses, for which I am eternally grateful)
+
+Thank you for what you do for people! For the future of people!
