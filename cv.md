@@ -9,11 +9,11 @@ But one happy day I thought that if every time I managed to change my profession
 I started to get interested in what makes money, big money. Something I could do for my own pleasure and at any time. I saw a lot of ads on the Internet with big headlines like " work from anywhere "or" travel and don't worry" and didn't believe them at all. But over time, I realized that if you don't try, you won't learn anything.
 
 For two years, I was interested in many things:
-investments
-automatic trading
-ads
-network business
-freelance
-YouTube
+* investments
+* automatic trading
+* ads
+* network business
+* freelance
+* YouTube
 
 So many possibilities! Where have I been before?
